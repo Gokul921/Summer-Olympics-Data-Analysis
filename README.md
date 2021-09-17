@@ -28,5 +28,7 @@ In this project we will go through the Summer Olympics Data  and do analysis of 
 8. Which sport is having most female Gold Medalists? (Top 5)
  you can do all question by manual and using function i have explained in code
 ## About me
+I am GOKUL B BTECH in branch of Computer Technology .Learning Artificial intelegence ,Machine learning ,Computer Vision to utilze in the field of Robotics
 
 # Profile
+https://www.linkedin.com/in/gokul-b-0277511a6/
